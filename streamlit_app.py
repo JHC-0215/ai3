@@ -73,7 +73,7 @@ CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
        "texts": ["막스가 있다."],
     #   "images": ["https://.../jjampong1.jpg", "https://.../jjampong2.jpg"],
     #   "videos": ["https://youtu.be/XXXXXXXXXXX"]
-    # },
+     },
 }
 
 # ======================
