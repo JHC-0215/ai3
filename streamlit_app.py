@@ -77,13 +77,13 @@ CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
 
     labels[1]: {
        "texts": ["스쿠데리아 페라리,"],
-       "images": ["https://namu.wiki/w/%EC%8A%A4%EC%BF%A0%EB%8D%B0%EB%A6%AC%EC%95%84%20%ED%8E%98%EB%9D%BC%EB%A6%AC/%EC%97%AD%EC%82%AC"]
+       "images": ["https://namu.wiki/w/%EC%8A%A4%EC%BF%A0%EB%8D%B0%EB%A6%AC%EC%95%84%20%ED%8E%98%EB%9D%BC%EB%A6%AC/%EC%97%AD%EC%82%AC"],
        "videos": ["https://www.youtube.com/watch?v=XJLzhPCVNaE"]
     },
 
     labels[2]: {
        "texts": ["오라클 레드불 레이싱,"],
-       "images": ["https://www.ansys.com/ko-kr/news-center/press-releases/2-29-24-ansys-and-red-bull-renew-partnership"]
+       "images": ["https://www.ansys.com/ko-kr/news-center/press-releases/2-29-24-ansys-and-red-bull-renew-partnership"],
        "videos": ["https://www.youtube.com/shorts/7S7-3U2AoeE"]
     },
 }
