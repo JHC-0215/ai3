@@ -83,7 +83,7 @@ CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
 
     labels[2]: {
        "texts": ["오라클 레드불 레이싱,"],
-       "images": ["https://www.ansys.com/ko-kr/news-center/press-releases/2-29-24-ansys-and-red-bull-renew-partnership"],
+       "images": ["https://images.ctfassets.net/17si5cpawjzf/3wM6EdoOZUTQr29cxJNT9j/a4df8022606441e747d2b00ce6325366/oracle-red-bull-racing_oracle_red_bull_racing_82748_shero_2560x1440_tcm27_108552.jpg"],
        "videos": ["https://www.youtube.com/shorts/7S7-3U2AoeE"]
     },
 }
